@@ -7,9 +7,6 @@
 
 <br>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=02569B&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
