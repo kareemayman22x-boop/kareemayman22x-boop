@@ -7,9 +7,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/kareem-ayman-a51126299
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/kareem-ayman-a51126299)
 
 </div>
 
